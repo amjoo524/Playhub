@@ -1,0 +1,6 @@
+{
+  "name": "PlayHub - Free Instant Browser Games",
+  "description": "Play instant free online games in your browser with no download or signup. Featuring Snake, 2048, Tetris, Minesweeper, Wordle, and more with daily challenges and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
